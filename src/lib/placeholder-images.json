@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "book1",
+      "description": "Cover of L'Étranger",
+      "imageUrl": "https://images.unsplash.com/photo-1534289855405-ab820a118fc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvbGQlMjBib29rfGVufDB8fHx8MTc2MjIyMDMxMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "old book"
+    },
+    {
+      "id": "book2",
+      "description": "Cover of Le Petit Prince",
+      "imageUrl": "https://images.unsplash.com/photo-1614712201488-9942af86b87b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8a2lkcyUyMGRyYXdpbmd8ZW58MHx8fHwxNzYyMjA0NDg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kids drawing"
+    },
+    {
+      "id": "book3",
+      "description": "Cover of 1984",
+      "imageUrl": "https://images.unsplash.com/photo-1758043439610-5612426040ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YWJzdHJhY3QlMjBleWV8ZW58MHx8fHwxNzYyMjgyMjIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract eye"
+    },
+    {
+      "id": "book4",
+      "description": "Cover of Dune",
+      "imageUrl": "https://images.unsplash.com/photo-1687639676496-ebb340ee4def?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkZXNlcnQlMjBwbGFuZXR8ZW58MHx8fHwxNzYyMjgwODMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "desert planet"
+    },
+    {
+      "id": "book5",
+      "description": "Cover of Sapiens",
+      "imageUrl": "https://images.unsplash.com/photo-1642743189630-decac3714040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxoYW5kcHJpbnQlMjBjYXZlfGVufDB8fHx8MTc2MjI4MjIyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "handprint cave"
+    },
+    {
+      "id": "book6",
+      "description": "Cover of a cookbook",
+      "imageUrl": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmcmVzaCUyMHZlZ2V0YWJsZXN8ZW58MHx8fHwxNzYyMjEzMzUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fresh vegetables"
+    },
+    {
+      "id": "book7",
+      "description": "Cover of a history book",
+      "imageUrl": "https://images.unsplash.com/photo-1744911617351-da45df2861f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhbmNpZW50JTIwbWFwfGVufDB8fHx8MTc2MjI2OTE5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ancient map"
+    },
+    {
+      "id": "book8",
+      "description": "Cover of a poetry book",
+      "imageUrl": "https://images.unsplash.com/photo-1595977072055-5de8650d9641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmZWF0aGVyJTIwcXVpbGx8ZW58MHx8fHwxNzYyMjgyMjIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "feather quill"
+    },
+    {
+      "id": "book9",
+      "description": "Cover of a fantasy book",
+      "imageUrl": "https://images.unsplash.com/photo-1618902345120-77758161d808?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxnbG93aW5nJTIwc3dvcmR8ZW58MHx8fHwxNzYyMjE4MTU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "glowing sword"
+    },
+    {
+      "id": "book10",
+      "description": "Cover of a biography",
+      "imageUrl": "https://images.unsplash.com/photo-1650057861788-b6b8606b77ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwb3J0cmFpdCUyMHBlcnNvbnxlbnwwfHx8fDE3NjIxOTA3NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait person"
+    }
+  ]
+}
